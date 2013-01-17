@@ -1,5 +1,6 @@
-<div class="wrapper footerwrap clr">
-	<div class="footer section clr">
-		<small><a href="http://www.bluehousegroup.com/" target="_blank">Website Design and Development by Bluehouse Group</a></small>
-	</div>
+<div class="wrapper footerwrap cf">
+  <footer>
+    &copy;$Now.Format(Y) $SiteConfig.Title
+    <% include DospuntoceroLink %>
+  </footer>
 </div>

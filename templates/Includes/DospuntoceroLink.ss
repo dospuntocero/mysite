@@ -1,0 +1,1 @@
+<a href="http://www.dospuntocero.cl" id="dospuntocero" title="<% _t('DospuntoceroLink.WEBSTANDARDS','dospuntocero.cl: we develop the Best content managed websites in the world') %>"><% _t('DospuntoceroLink.WEBSTANDARDS','dospuntocero.cl: we develop the Best content managed websites in the world') %></a>

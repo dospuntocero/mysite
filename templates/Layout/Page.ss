@@ -1,15 +1,15 @@
-<div class="wrapper mainwrap clr">
-	<div class="section main clr">
-		<div id="primaryContent" class="content clr">
-			<div class="innerpad clr">
-				$Content
-				$Form
-			</div>
-		</div>
-		<div id="secondaryContent" class="clr">
-			<div class="innerpad clr">
-				
-			</div>
-		</div>
-	</div>
+<div class="wrapper">
+  <div class="main">
+    <section id="primaryContent" class="content cf">
+      <div class="innerpad">
+        $Content
+        $Form
+      </div>
+    </section>
+    <section id="secondaryContent">
+      <div class="innerpad cf">
+      </div>
+    </section>
+    <% include Sidebar %>
+  </div>
 </div>
