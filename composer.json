@@ -1,0 +1,10 @@
+{
+    "description": "Silverstripe mysite base barebones folder",
+    "minimum-stability": "dev", 
+    "name": "silverstripe/ss3barebones", 
+    "require": {
+        "php": ">=5.3.2", 
+        "silverstripe/cms": "3.1.*", 
+        "silverstripe/framework": "3.1.*"
+    }
+}
